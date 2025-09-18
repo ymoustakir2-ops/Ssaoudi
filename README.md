@@ -1,5 +1,5 @@
-```markdown
-![صورة](https://github.com/ynmoustakir2-ops/Ssaoudi/raw/main/IMG-20250901-WA0016.jpg)
+`````markdown
+![صورة](https://github.com/ymoustakir2-ops/Ssaoudi/raw/main/IMG-20250901-WA0016.jpg)
 ```
 # Ssaoudi
 ﷽
