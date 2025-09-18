@@ -1,4 +1,4 @@
-markdown 
+
 [IMG-20250901-WA0016.jpg]
 # Ssaoudi
 ﷽
